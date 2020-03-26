@@ -1,8 +1,7 @@
 import React from 'react'
 import ReactBodymovin from 'react-bodymovin'
-import animation from './anim1.json'
-
-
+import animation from './anim2.json'
+ 
 const App = () => {
   const bodymovinOptions = {
     loop: true,
@@ -10,12 +9,12 @@ const App = () => {
     prerender: true,
     animationData: animation
   }
-
+ 
   return (
     <div>
       <ReactBodymovin options={bodymovinOptions} />
     </div>
   )
 }
-
+ 
 export default App
