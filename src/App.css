@@ -1,0 +1,14 @@
+
+.container{
+  margin-top: 10vh;
+  display: flex;
+  justify-content: space-around;
+}
+
+.anim1{
+  position: absolute;
+}
+
+.Z-index{
+z-index: 1;
+}
