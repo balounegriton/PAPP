@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/PAPP/static/css/main.77665d33.chunk.css",
-    "main.js": "/PAPP/static/js/main.c19ac441.chunk.js",
-    "main.js.map": "/PAPP/static/js/main.c19ac441.chunk.js.map",
+    "main.css": "/PAPP/static/css/main.7f97b954.chunk.css",
+    "main.js": "/PAPP/static/js/main.0e4f6e46.chunk.js",
+    "main.js.map": "/PAPP/static/js/main.0e4f6e46.chunk.js.map",
     "runtime-main.js": "/PAPP/static/js/runtime-main.b5e2d86f.js",
     "runtime-main.js.map": "/PAPP/static/js/runtime-main.b5e2d86f.js.map",
     "static/js/2.c420cf6d.chunk.js": "/PAPP/static/js/2.c420cf6d.chunk.js",
     "static/js/2.c420cf6d.chunk.js.map": "/PAPP/static/js/2.c420cf6d.chunk.js.map",
     "index.html": "/PAPP/index.html",
-    "precache-manifest.79eb91cd9bcabe155e32b4b5244abb9c.js": "/PAPP/precache-manifest.79eb91cd9bcabe155e32b4b5244abb9c.js",
+    "precache-manifest.2726bcb94991f19aa03778a7a5d07700.js": "/PAPP/precache-manifest.2726bcb94991f19aa03778a7a5d07700.js",
     "service-worker.js": "/PAPP/service-worker.js",
-    "static/css/main.77665d33.chunk.css.map": "/PAPP/static/css/main.77665d33.chunk.css.map",
+    "static/css/main.7f97b954.chunk.css.map": "/PAPP/static/css/main.7f97b954.chunk.css.map",
     "static/js/2.c420cf6d.chunk.js.LICENSE.txt": "/PAPP/static/js/2.c420cf6d.chunk.js.LICENSE.txt",
     "static/media/book.jpg": "/PAPP/static/media/book.2eb91002.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b5e2d86f.js",
     "static/js/2.c420cf6d.chunk.js",
-    "static/css/main.77665d33.chunk.css",
-    "static/js/main.c19ac441.chunk.js"
+    "static/css/main.7f97b954.chunk.css",
+    "static/js/main.0e4f6e46.chunk.js"
   ]
 }
