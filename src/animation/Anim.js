@@ -1,20 +1,21 @@
 import React from 'react'
 import ReactBodymovin from 'react-bodymovin'
-import animation from './anim2.json'
- 
-const App = () => {
+import animation from './anim.json'
+
+
+const Anim = () => {
   const bodymovinOptions = {
     loop: true,
     autoplay: true,
     prerender: true,
     animationData: animation
   }
- 
+
   return (
     <div>
       <ReactBodymovin options={bodymovinOptions} />
     </div>
   )
 }
- 
-export default App
+
+export default Anim

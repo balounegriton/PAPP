@@ -4,18 +4,17 @@
   justify-content: space-around;
 }
 
-.anim1{
+.anim{
   position: absolute;
+  width: 100vw;
 }
-.anim2{
-  position: absolute;
-  margin-top: -50%;
-  z-index: 1000;
-}
+
 .Z-index{
 z-index: 1;
 }
 
-img{
-  width: 20vw;
+img {
+  width: 20%;
+  height: 100%;
 }
+
