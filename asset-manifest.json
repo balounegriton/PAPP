@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PAPP/static/css/main.7f97b954.chunk.css",
+    "main.css": "/PAPP/static/css/main.bbbcc48a.chunk.css",
     "main.js": "/PAPP/static/js/main.0e4f6e46.chunk.js",
     "main.js.map": "/PAPP/static/js/main.0e4f6e46.chunk.js.map",
     "runtime-main.js": "/PAPP/static/js/runtime-main.b5e2d86f.js",
@@ -8,16 +8,16 @@
     "static/js/2.c420cf6d.chunk.js": "/PAPP/static/js/2.c420cf6d.chunk.js",
     "static/js/2.c420cf6d.chunk.js.map": "/PAPP/static/js/2.c420cf6d.chunk.js.map",
     "index.html": "/PAPP/index.html",
-    "precache-manifest.2726bcb94991f19aa03778a7a5d07700.js": "/PAPP/precache-manifest.2726bcb94991f19aa03778a7a5d07700.js",
+    "precache-manifest.89e625662c3d1eca2a538aba34ec200b.js": "/PAPP/precache-manifest.89e625662c3d1eca2a538aba34ec200b.js",
     "service-worker.js": "/PAPP/service-worker.js",
-    "static/css/main.7f97b954.chunk.css.map": "/PAPP/static/css/main.7f97b954.chunk.css.map",
+    "static/css/main.bbbcc48a.chunk.css.map": "/PAPP/static/css/main.bbbcc48a.chunk.css.map",
     "static/js/2.c420cf6d.chunk.js.LICENSE.txt": "/PAPP/static/js/2.c420cf6d.chunk.js.LICENSE.txt",
     "static/media/book.jpg": "/PAPP/static/media/book.2eb91002.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b5e2d86f.js",
     "static/js/2.c420cf6d.chunk.js",
-    "static/css/main.7f97b954.chunk.css",
+    "static/css/main.bbbcc48a.chunk.css",
     "static/js/main.0e4f6e46.chunk.js"
   ]
 }
