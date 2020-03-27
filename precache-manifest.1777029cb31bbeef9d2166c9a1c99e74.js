@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c8e8efd489e38d6981e9170aba0abcb",
+    "revision": "8eff7d7b7c0bbbfc3fa57c9e2af738a6",
     "url": "/PAPP/index.html"
   },
   {
-    "revision": "592f15e79483ce8d4af2",
-    "url": "/PAPP/static/css/main.810cb871.chunk.css"
+    "revision": "f5ccf63bbb8bcc9c31ec",
+    "url": "/PAPP/static/css/main.6ebfcdfb.chunk.css"
   },
   {
-    "revision": "058d7b56c5370eb25116",
-    "url": "/PAPP/static/js/2.ad00d3b0.chunk.js"
+    "revision": "895293c8c0b75943b60a",
+    "url": "/PAPP/static/js/2.c420cf6d.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/PAPP/static/js/2.ad00d3b0.chunk.js.LICENSE.txt"
+    "url": "/PAPP/static/js/2.c420cf6d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "592f15e79483ce8d4af2",
-    "url": "/PAPP/static/js/main.e80fd437.chunk.js"
+    "revision": "f5ccf63bbb8bcc9c31ec",
+    "url": "/PAPP/static/js/main.9bda0075.chunk.js"
   },
   {
     "revision": "32cffc3c179a0c3fa952",
